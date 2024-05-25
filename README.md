@@ -3,8 +3,8 @@ Directory where I save txt files with chords and lyrics and a batch script to bu
 
 ## Requirements
 
-Windows OS
-Python (packages: PyPDF2, fpdf)
+Windows OS <br>
+Python (packages: `PyPDF2, fpdf`)
 
 ## Folder organization
 
