@@ -4,7 +4,7 @@ Directory where I save txt files with chords and lyrics and a batch script to bu
 ## Requirements
 
 Windows OS
-IrfanView
+Python (packages: PyPDF2, fpdf)
 
 ## Folder organization
 
@@ -29,6 +29,6 @@ Songs will appear in the songbook grouped per autor and in alphabetic order. Aut
 
 Open a Command Prompt window.
 Navigate to the directory where the batch script is saved.
-Run the script with the PDF files you want to merge and the desired output file name:
+Run the script:
 
-```merge_pdfs.bat file1.pdf file2.pdf output.pdf```
+```create_songbook.bat```
