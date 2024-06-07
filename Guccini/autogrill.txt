@@ -1,6 +1,3 @@
-AUTOGRILL
-                F Guccini
- 
      C
 La ragazza dietro al banco mescolava
       G
@@ -53,8 +50,7 @@ ed io
 Fmaj7                  C   C G G
 sentivo un'infelicità vicina.
 F F Am Am G G Em Em F F C G
- 
-{column_break}
+
  
 Vergognandomi, ma solo un poco appena,
 misi un disco nel juke-box

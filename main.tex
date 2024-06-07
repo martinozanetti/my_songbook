@@ -1,0 +1,23 @@
+\documentclass[oneside]{book}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fancyvrb}
+\usepackage{setspace} % for adjusting line spacing
+
+% Adjust line spacing
+\setstretch{0.7} % Adjust as needed (e.g., 0.9 for 90% of the normal spacing)
+
+% redefine \VerbatimInput
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{fontsize=\small,
+ commandchars=\|\(\), % escape character and argument delimiters for
+                      % commands within the verbatim
+}
+
+
+\begin{document}
+
+\tableofcontents
+
+\input{body.tex}
+
+\end{document}

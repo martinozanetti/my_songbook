@@ -1,7 +1,7 @@
-MARTA
-
 4:4, capo 1
-intro: MIm DO SOL RE
+
+[intro]
+MIm DO SOL RE
 
 MIm			     DO 
 Marta che ti confondi tra la gente
