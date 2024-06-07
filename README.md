@@ -3,8 +3,8 @@ Directory where I save txt files with chords and lyrics, a script to build a bod
 
 ## Requirements
 
-Python
-pdflatex
+Python <br>
+PdfLatex
 
 ## Folder organization
 
@@ -23,7 +23,7 @@ Autor3
     Song3
 ```
 
-Songs will appear in the songbook grouped per autor and in alphabetic order. Autors will appear in alphabetic order, too. 
+Songs will appear in the songbook grouped by autor and in alphabetic order. Autors will appear in alphabetic order, too. 
 
 ## Compile the songbook
 
