@@ -1,5 +1,5 @@
 \documentclass[oneside]{book}
-\usepackage[a4paper,top=2cm, bottom=2cm, left=3cm, right=3cm]{geometry}
+\usepackage[a4paper,top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}
 \usepackage[dvipsnames]{xcolor}
 \usepackage{fancyvrb}
 
@@ -8,7 +8,7 @@
 
 % redefine \VerbatimInput
 \RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
-{fontsize=\normalsize,
+{fontsize=\small,
  commandchars=\|\(\), % escape character and argument delimiters for
                       % commands within the verbatim
 }
@@ -26,17 +26,17 @@
   {0pt} % No space between label and title
   {} % Code before the title
   
+ 
 \usepackage{fancyhdr}
-\fancypagestyle{myfancy}{\renewcommand{\headrulewidth}{0.3pt}\renewcommand{\footrulewidth}{0.3pt}}
+
+\fancypagestyle{myfancy}{\renewcommand{\headrulewidth}{0.5pt}
+}
 \pagestyle{myfancy}
+
 
 % Remove labelling from chapters and section
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}{}}
-
-% Start each section on a new page
-\let\oldsection\section
-\renewcommand{\section}{\newpage\oldsection}
 
 
 \begin{document}
