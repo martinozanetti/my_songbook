@@ -27,7 +27,7 @@ Songs will appear in the songbook grouped by autor and in alphabetic order. Auto
 
 ## Compile the songbook
 
-Run
+Run (double click)
 ```
 run.bat
 ```

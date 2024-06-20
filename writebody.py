@@ -2,7 +2,7 @@ import os
 
 def create_latex_in_current_directory(output_file):
     current_directory = os.getcwd()  # Get the current working directory
-    with open(output_file, 'w') as tex_file:
+    with open(output_file, 'w', encoding='utf-8') as tex_file:
         for dir_name in sorted(os.listdir(current_directory)):
             if dir_name == '.git':  # Skip the .git folder
                 continue
