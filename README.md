@@ -31,3 +31,7 @@ Run (double click)
 ```
 run.bat
 ```
+
+## How to contribute
+
+Contributors are welcome to add songs at their wish. Please follow the structure Author/Song-Title.txt (where spaces are replaced by "-" and capital letters are used. Note that sometimes accents in the title are not welcome by the latex compiler, so I prefer to use '). Inside the txt files write only text and chords (without title, which is automatically added by the "body builder").
