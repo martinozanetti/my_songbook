@@ -3,6 +3,7 @@
 \usepackage[dvipsnames]{xcolor}
 \usepackage{fancyvrb}
 \usepackage[utf8]{inputenc}
+\usepackage{hyperref}
 
 \usepackage{setspace} % for adjusting line spacing
 \setstretch{0.7}% Adjust line spacing
@@ -28,6 +29,10 @@
 \fancypagestyle{myfancy}{\renewcommand{\headrulewidth}{0.3pt}\renewcommand{\footrulewidth}{0.3pt}}
 \pagestyle{myfancy}
 
+\fancyfoot[R]{\href{toc.pdf}{Back to Table of Contents}}
+\fancyfoot[L]{\hyperlink{Chords}{Go to Chords}}
+
+
 % Remove labelling from chapters and section
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}{}}
@@ -41,8 +46,9 @@
 
 \tableofcontents
 
-
-\VerbatimInput{Accordi.txt}
+\section*{Basic guitar chords}
+\hypertarget{Chords}{}
+\VerbatimInput{chords.txt}
 
 \input{body.tex}
 
