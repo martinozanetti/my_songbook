@@ -1,11 +1,11 @@
-Capo 4 o 5
+Capo 3
 
 [Verse 1]
     D                   A
 Hey Jude, don't make it bad
-     D/A A7  A7sus4   A7      D
-Take a   sad song and make it better
-  G                          D
+       A7  A7sus4   A7      D
+Take a sad song and make it better
+  G                           D
 Remember to let her into your heart
                  A                D
 and then you can start to make it better
@@ -13,76 +13,66 @@ and then you can start to make it better
 [Verse 2]
     D               A
 Hey Jude, don't be afraid
-    D/A  A7   A7sus4 A7      D
+         A7   A7sus4 A7          D
 You were made to  go out and get her
-    G                            D
+    G                             D
 The minute you let her under your skin
-           A              D        Dmaj7 D7
+           A              |D - |Dmaj7 - |D7 - |
 then you begin to make it better
  
 [Chorus]
                          G        G/F#    Em
 And anytime you feel the pain, hey Jude, refrain
-      G/D      A/C#   A        D         Dmaj7 D7
+      G        A/C#   A        D         Dmaj7 D7
 Don't carry the world upon your shoulders
                               G       G/F#     Em
 For well you know that it's a fool who plays it cool
-   G/D       A/C#    A      D
+   G          A/C#    A      D
 by making his world a little colder
  
 [Interlude]
-D         D7      A      A7        A  D  A7
+D        |D7  -   A7     -    |A7 - - - |- - |
 Na na na  na na   na na  na naa
  
 [Verse 3]
     D                  A
 Hey Jude, don't let me down
-    D/A  A7    A7sus4   A7     D
+         A7    A7sus4   A7     D
 You have found her, now go and get her
   G                         D
 Remember to let her into you heart
-             A                D       Dmaj7  D7
+             A                |D - Dmaj7 - |D7 - |
 then you can start to make it better
  
 [Chorus]
                          G      G/F#    Em
 So let it out and let it in, hey Jude, begin
-       G/D        A/C#    A     D            Dmaj7  D7
+       G          A/C#    A     D            Dmaj7  D7
 You're waiting for someone to perform with
                                   G       G/F#         Em
 And don't you know that it's just you, hey Jude, you'll do
-    G/D         A/C#    A       D
+    G            A/C#    A       D
 The movement you need is on your shoulders
  
 [Interlude]
-D         D7      A      A7        A  D  A7
-Na na na  na na   na na  na naa    yeah
+D        |D7  -   A7     -    |A7 - - - |- - |
+Na na na  na na   na na  na naa    
  
 [Verse 4]
     D                   A
 Hey Jude, don't make it bad
-     D/A A7  A7sus4   A7      D
-Take a   sad song and make it better
-  G                           D
+       A7  A7sus4   A7      D
+Take a sad song and make it better
+  G                            D
 Remember to let her under your skin
                 A                D
 and then you'll begin to make it better, better, better, better, better, better, ahhhhhh!
  
 [Outro]
-D          C
-Na na na   na na na na
-G
-Na na na na
-    D
-Hey Jude
- 
-D          C
-Na na na   na na na na
-G
-Na na na na
-    D
-Hey Jude
- 
- 
+D          C		 G	       D
+Na na na   na na na na   Na na na na   Hey Jude
+D          C		 G	       D
+Na na na   na na na na   Na na na na   Hey Jude 
+
+...
 (Repeat and fade)
-X

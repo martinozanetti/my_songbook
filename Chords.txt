@@ -1,69 +1,63 @@
 A     x02220
 Am    x02210
-Amaj  x02120
-Asus  x02230
+Amaj  x02120 (Amaj7)
+Asus  x02230 (A4)
 A2    x02200
-A4    x02230
 A6    x02222
 A7    x02020
 A9    x02423
 
 B     x24442
 Bm    x24432
-Bmaj  x24342
-Bsus  x24452
+Bmaj  x24342 (Bmaj7)
+Bsus  x24452 (B4)
 B2    x24422
-B4    x24452
 B6    x24444
 B7    x21202
 B9    x21222
 
 C     x32010
 Cm    x35543
-Cmaj  x32110
-Csus  x33010
+Cmaj  x32110 (Cmaj7)
+Csus  x33010 (C4)
 C2    x32030
-C4    x33010
 C6    x32210
 C7    x32310
 C9    x32333
 
 D     xx0232
 Dm    xx0231
-Dmaj  xx0222
-Dsus  xx0233
+Dmaj  xx0222 (Dmaj7)
+Dsus  xx0233 (D4)
 D2    xx0230
-D4    xx0233
 D6    xx0202
+D6/9  xx0200
 D7    xx0212
-D9    xx0210
+D9    xx0230
 
 E     022100
 Em    022000
-Emaj  021100
-Esus  022200
+Emaj  021100 (Emaj7)
+Esus  022200 (E4)
 E2    022102
-E4    022200
 E6    022120
 E7    020100
 E9    020102
 
 F     133211
 Fm    133111
-Fmaj  132211
-Fsus  133311
+Fmaj  132211 (Fmaj7)
+Fsus  133311 (F4)
 F2    133013
-F4    133311
 F6    133231
 F7    131211
 F9    131213
 
 G     320003
 Gm    355333
-Gmaj  320003
-Gsus  320013
+Gmaj  320003 (Gmaj7)
+Gsus  320013 (G4)
 G2    320203
-G4    320013
 G6    320000
 G7    320001
 G9    320201
