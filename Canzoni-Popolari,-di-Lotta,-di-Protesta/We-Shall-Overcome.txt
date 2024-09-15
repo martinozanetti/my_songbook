@@ -7,7 +7,7 @@ C        F   C
 We shall overcome
          F   C
 We shall overcome
-         F G Am   D    G D G
+         F G Am   D    G 
 We shall overcome some day
  
 [Chorus]
@@ -25,7 +25,7 @@ C          F       C
 We'll walk hand in hand
            F       C
 We'll walk hand in hand
-           F    G  Am   D    G D G
+           F    G  Am   D    G 
 We'll walk hand in hand some day
  
 [Chorus]
@@ -43,7 +43,7 @@ C        F      C
 We shall all be free
          F      C
 We shall all be free
-         F   G  Am   D    G D G
+         F   G  Am   D    G 
 We shall all be free some day
  
 [Chorus]
@@ -61,7 +61,7 @@ C      F    C
 We are not afraid
        F    C
 We are not afraid
-       F   G Am   D    G D G
+       F   G Am   D    G 
 We are not afraid some day
  
 [Chorus]

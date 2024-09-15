@@ -1,0 +1,124 @@
+[Intro]
+ 
+  A                      C#m                   D                        A *
+e|----------------------|---------------------|------------------------|-------------------|
+B|-----7b-------5-------|----7b--------5------|--7b------5-------------|----7b-------5-----|
+G|-----------------6----|-----------------6---|-------------6s2--------|----------------6--|
+D|----------------------|---------------------|-------------------2s9--|-------------------|
+A|----------------------|---------------------|------------------------|-------------------|
+E|----------------------|---------------------|------------------------|-------------------| 
+ 
+ 
+[Verse 1]
+              A              C#m
+In un mondo che non ci vuole più
+              D          A*
+il mio canto libero sei tu
+            A                    C#m
+e l'immensità si apre intorno a noi
+            D                  A*
+aldilà del limite degli occhi tuoi
+A                    C#m
+nasce il sentimento, nasce in mezzo al pianto
+               D         A*
+e s'innalza altissimo e va
+    A
+e vola sulle accuse della gente
+   C#m
+a tutti i suoi retaggi indifferente
+               D
+sorretto da un anelito d'amor
+    A*
+di vero amore
+ 
+ 
+[Verse 2]
+              A            C#m
+In un mondo che prigioniero è
+            D          A*
+respiriamo liberi io e te
+          A                 C#m
+e la verità si offre nuda a noi
+              D           A*
+e limpida è l'immagine ormai
+A                  C#m
+nuove sensazioni, giovani emozioni
+              D            A*
+si esprimono purissime in noi
+    A
+la veste dei fantasmi del passato
+   C#m
+cadendo lascia il quadro immacolato
+                   D
+e s'alza un vento tiepido d'amore
+    A*
+di vero amore
+ 
+ 
+[Bridge 1]
+D          A* D  A*
+E riscopro te
+      C#m
+dolce compagna che
+ D
+non sai dove andare
+           A*
+ma sai che ovunque andrai
+G                A*
+al fianco tuo mi avrai
+Bm                 E
+se tu lo vuoi
+ 
+A C#m D A*  A C#m D A*
+ 
+ 
+[Bridge 2]
+ A
+Pietre un giorno case
+       C#m
+ricoperte dalle rose selvatiche
+       D       A*
+rivivono, ci chiamano
+ A
+boschi abbandonati
+      C#m
+e perciò sopravvissuti vergini
+   D          A*
+si aprono, ci abbracciano
+ 
+ 
+  G                      F#
+e|----------------------|---------------------|
+B|------2-2h3-----------|-----2h5-------------|
+G|--------------4-------|-----------3---------|
+D|----------------------|---------------------|
+A|----------------------|---------------------|
+E|----------------------|---------------------|
+ 
+ 
+[Verse 2 - Repeated]
+              B            D#m
+In un mondo che prigioniero è
+            E          B
+respiriamo liberi io e te
+          B                 D#m
+e la verità si offre nuda a noi
+              E           B
+e limpida è l'immagine ormai
+B                  D#m
+nuove sensazioni, giovani emozioni
+              E            B
+si esprimono purissime in noi
+    B
+la veste dei fantasmi del passato
+   D#m
+cadendo lascia il quadro immacolato
+                   E
+e s'alza un vento tiepido d'amore
+    B
+di vero amore
+E          B
+e riscopro te
+ 
+[Outro]
+E B E B
